@@ -1,7 +1,7 @@
 # molgraph
 [**mol2graph**] is a Python package for reading .mol2 files and constructing of molecular graphs from mol output files. This package is built upon xyz2graph package by Mykola Zotko. It adds the features of Atom type, Atom name and bond type to the 3D visualization and it tries to put 2 molecula into one graph to compare the similarity of molecula.
 
- The molecular graph can be converted into [NetworkX](https://networkx.github.io) graph or [Plotly](https://plot.ly) figure for 3D visualization in a browser window or in a [Jupyter notebook](https://jupyter.org).
+The molecular graph can be converted into [NetworkX](https://networkx.github.io) graph or [Plotly](https://plot.ly) figure for 3D visualization in a browser window or in a [Jupyter notebook](https://jupyter.org).
 
 Looking forward
 I find it is hard to implement the interaction bewteen two input molecula
@@ -17,9 +17,6 @@ I find it is hard to implement the interaction bewteen two input molecula
  * [NetworkX](https://networkx.github.io)
  * [Plotly](https://plot.ly)
  
-## Installation
-?????
-`python -m pip install git+https://github.com/zotko/xyz2graph.git`
 
 ## Usage
 ```
