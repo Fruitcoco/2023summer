@@ -4,7 +4,7 @@
 The molecular graph can be converted into [NetworkX](https://networkx.github.io) graph or [Plotly](https://plot.ly) figure for 3D visualization in a browser window or in a [Jupyter notebook](https://jupyter.org).
 
 Looking forward
-I find it is hard to implement the interaction bewteen two input molecula
+I find it is hard to implement the interaction bewteen two input molecula. The next step is to be able to read mapping information and the mapped atom can be visualized. Also, it would be helpful to hide one molecula from the other but this may requires change in plotly package which may need help from front end developer.  
 
 
 <p align="center">
